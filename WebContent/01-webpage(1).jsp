@@ -16,7 +16,7 @@
 </head>
 <body>
 	<div class="container">
-		<h1>윤희지</h1>
+		<h1>8987878</h1>
 		<%
 			if (color.equals("red")) {
 				out.print("<h1 style='color: red'>Hello JSP</h1>");
